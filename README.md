@@ -1,6 +1,6 @@
 # ai_chat
 
-A new Flutter project.
+This is a ai chatbot using Claude
 
 ## Getting Started
 
